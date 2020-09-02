@@ -25,6 +25,7 @@
   * 激活函数
     * Sigmoid
     * ReLU
+    * Leaky-ReLU
     * SoftMax
   * 代价函数
     * 分类交叉熵函数
